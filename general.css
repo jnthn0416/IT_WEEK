@@ -48,10 +48,6 @@ html{
 @media screen and (max-width:720px){
 .content{
 grid-template-rows:0.6fr 0,4fr 0.4fr 0.3fr .1fr;
-}
-.content_1{
-	height:720px;
-	
 }	
 
 }
