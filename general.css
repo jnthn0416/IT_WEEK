@@ -46,7 +46,7 @@ html{
 }
 
 @media screen and (max-width:676px){
-.content{
+ .content{
 grid-template-rows:0.6fr 0,4fr 0.4fr 0.3fr .1fr;
-}	
+  	
 }
