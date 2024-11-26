@@ -45,10 +45,10 @@ html{
 	
 }
 
-@media screen and (max-width:1080px){
+@media screen and (max-width:676px){
 	
 	
 	.content{
-	grid-template-rows:1fr 1fr 1.5fr 0.8fr .2fr;
+	grid-template-rows:1fr 1fr 1fr 0.5fr .1fr;
 }
 
