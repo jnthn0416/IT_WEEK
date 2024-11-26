@@ -49,6 +49,6 @@ html{
 	
 	
 	.content{
-	grid-template-rows:1fr 1fr 1fr 0.5fr .1fr;
+	grid-template-rows:0.8fr 0,5fr 0.5fr 0.4fr .1fr;
 }
 
