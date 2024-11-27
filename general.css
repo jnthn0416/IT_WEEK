@@ -29,7 +29,7 @@ html{
 .content{
 	display:grid;
 	grid-template-columns:1fr;
-	grid-template-rows:1fr 1fr 1.5fr 0.8fr .3fr;
+	grid-template-rows:1fr 1fr 1.5fr 0.8fr .2fr;
 	position:relative;
 }
 
@@ -45,14 +45,14 @@ html{
 	
 }
 
-@media screen and (max-width:676px){
+@media screen and (max-width:720px){
 	
 	
 	.content{
 	grid-template-rows:0.8fr 0.8fr 1fr 0.6fr .1fr;
 }
 	.content_1{
-	height:676px;
+	height:720px;
 	
 	}
 }
