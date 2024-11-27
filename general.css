@@ -49,7 +49,7 @@ html{
 	
 	
 	.content{
-	grid-template-rows:1fr 1fr 1.5fr 0.8fr .2fr;
+	grid-template-rows:1fr 1fr 1.5fr 0.8fr .1fr;
 }
 }
 
