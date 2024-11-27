@@ -51,5 +51,9 @@ html{
 	.content{
 	grid-template-rows:0.8fr 0.8fr 1fr 0.6fr .1fr;
 }
+	.content_1{
+	height:676px;
+	
+	}
 }
 
